@@ -1,0 +1,17 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: #c6f4f7;
+}
+
+img{
+    height: "10"; 
+    width: "5";
+    position: absolute;
+    top: 7%;
+    left:75%;
+    align-content: space-around;
+}
