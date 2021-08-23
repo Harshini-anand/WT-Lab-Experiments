@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #c6f4f7;
+    background-color: #cce6ff;
 }
 
 img{
@@ -14,4 +14,7 @@ img{
     top: 7%;
     left:75%;
     align-content: space-around;
+}
+.font_color{
+    color: white;
 }
